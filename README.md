@@ -1,0 +1,1 @@
+# template_bug_bounty_report

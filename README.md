@@ -1,6 +1,7 @@
 # template_bug_bounty_report
 
-
+## example
+- https://hackerone.com/reports/341876
 
 
 ```text
